@@ -1,1 +1,1 @@
-# script-sql-service-demo
+# script-database-demo
